@@ -45,4 +45,4 @@ $ npm run lint:js
 
 ### License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
