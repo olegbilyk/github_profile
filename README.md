@@ -1,7 +1,7 @@
 # GitHub Profile
 
 ## Demo
-[Demo](https://olegbilyk.github.io/github_profile/)
+[Demo](https://olegbilyk.github.io/github_profile/index.html)
 
 #### Installation 
 
