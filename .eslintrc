@@ -1,0 +1,22 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard-react", "eslint:recommended" ],
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true,
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "rules": {
+    "no-console": "off"
+  },
+  "globals": {
+    "fetch": false,
+    "console": false,
+    "document": false,
+    "Promise": false
+  }
+}
